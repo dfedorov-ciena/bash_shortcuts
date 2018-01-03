@@ -12,8 +12,8 @@ Copyright (C) 2013 Free Software Foundation, Inc.
 ```shell
 $ echo $SHELL
 /bin/bash
-```shell
 ```
+```shell
 $ ps -p "$$"
    PID TTY          TIME CMD
  13750 pts/0    00:00:00 bash
